@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StarDashboard/static/css/main.f853168d.css",
+    "main.js": "/StarDashboard/static/js/main.02e88a89.js",
+    "index.html": "/StarDashboard/index.html",
+    "main.f853168d.css.map": "/StarDashboard/static/css/main.f853168d.css.map",
+    "main.02e88a89.js.map": "/StarDashboard/static/js/main.02e88a89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f853168d.css",
+    "static/js/main.02e88a89.js"
+  ]
+}
